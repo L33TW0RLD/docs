@@ -47,9 +47,9 @@ To add a link to an image, enclose the Markdown for the image in brackets, and t
 This technique is useful when you want the image to also function as a link, directing users to another page when they click on it.
 
 ```markdown
-[![HTML Image Example](https://raw.githubusercontent.com/Codecademy/docs/main/media/html-image-example.png "HTML Image Example")](https://www.codecademy.com)
+[![Markdown Image Example](https://raw.githubusercontent.com/Codecademy/docs/main/media/html-image-example.png "Markdown Image Example")](https://www.codecademy.com)
 ```
 
 The output would be:
 
-[![HTML Image Example](https://raw.githubusercontent.com/Codecademy/docs/main/media/html-image-example.png "HTML Image Example")](https://www.codecademy.com)S
+[![Markdown Image Example](https://raw.githubusercontent.com/Codecademy/docs/main/media/html-image-example.png "Markdown Image Example")](https://www.codecademy.com)
